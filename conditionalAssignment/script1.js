@@ -12,3 +12,4 @@ function findMax(a, b) {
 
 console.log(findMax(7, 7));
 // Rahul patidar
+// joonakhera
